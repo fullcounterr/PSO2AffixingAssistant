@@ -406,8 +406,8 @@ const lang = Object.freeze({
             jp: "問題を報告"
         },
         malulleybovo: {
-            en: "by malulleybovo",
-            jp: "malulleybovoから"
+            en: "by malulleybovo, forked by fullcounter",
+            jp: "malulleybovoから、fullcounterによって更新されました"
         }
     },
     "filters": {

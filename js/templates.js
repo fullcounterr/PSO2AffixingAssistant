@@ -36,6 +36,7 @@ const WELCOME_VIEW = (langCode) => `<div class="welcome">
                     <div>
                         <h1>${lang.app.appTitle[langCode]}</h1>
                     </div>
+					<div style="z-index: -1"><p>fullcounterr fork. Updated on 11/11/2020.</p></div>
                     <p>${lang.app.subHeader[langCode]}</p>
                     <div>
                         <img src="css/res/howItWorks.png">
